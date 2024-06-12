@@ -27,6 +27,7 @@ git clone https://github.com/ViewerWhite8/Play-SoundMux
 ```bash
 cd Play-SoundMux
 ```
+# Run tool
 ```bash
 python Play-Sound.py
 ```
